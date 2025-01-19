@@ -1,0 +1,43 @@
+.banner{
+    display: flex;
+    width: 1280px;
+    height: 560px;
+    background-color: #C6E4D6;
+    border-radius: 15px;
+   
+}
+.banner-content{
+    margin-top: 80px;
+    margin-left: 100px;
+}
+.banner-greetings-dark-2{
+color: #0E0E0E;
+margin-bottom: 16px;
+}
+.btn-primary{
+    color: #FFFFFF;
+    width: 270px;
+    height: 54px;
+    background-color: green;
+}
+.banner-title{
+    margin-bottom: 16px;
+
+
+
+}
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.work-sans-normal{
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: 18;
+}
+
+.image-title{
+    width: 474px;
+    height: 400px;
+    margin-top: 80px;
+  margin-right: 100px;
