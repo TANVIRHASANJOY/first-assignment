@@ -41,3 +41,46 @@ margin-bottom: 16px;
     height: 400px;
     margin-top: 80px;
   margin-right: 100px;
+}
+.plan-container{
+    display: flex;
+    justify-content: space-around;
+}
+.plan1{
+    background-color: #5490F5;
+
+    margin:32px 24px 24px 24px;
+    width: 310px;
+    height: 291px;
+    border-radius: 16px;
+    padding: 32px;
+}
+.plan2{
+    background-color: #09A15C;
+    margin:32px 24px 24px 24px;
+    width: 310px;
+    height: 291px;
+    border-radius: 16px;
+    padding: 32px;
+}
+.plan3{
+    background-color: #FFC239;
+    margin:32px 24px 24px 24px;
+    width: 310px;
+    height: 291px;
+    border-radius: 16px;
+    padding: 32px;
+}
+.btn-primary1{
+    color: #FFFFFF;
+background-color: #5490F5;
+}
+.btn-primary2{
+background-color: #09A15C;
+color: #FFFFFF;
+}
+.btn-primary3{
+
+    background-color: #5490F5;
+    color: #FFFFFF;
+}
